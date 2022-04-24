@@ -6,6 +6,10 @@ Plugin for exporting assets from Quixel Bridge to Source 2.
 [![youtube demo video](http://img.youtube.com/vi/mxbicmO3Kug/0.jpg)](https://www.youtube.com/watch?v=mxbicmO3Kug)  
 [![update & asset sprayer demo](http://img.youtube.com/vi/_U26K0bTlmc/0.jpg)](https://www.youtube.com/watch?v=_U26K0bTlmc)
 
+## Quixel
+
+Note that Quixel Megascans is free to use only with Unreal Engine. Other applications (such as Source2 based games) will require a license. See [https://quixel.com/pricing](https://quixel.com/pricing) for details.
+
 ## Features
 
 - Exporting geometry & textures
